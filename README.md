@@ -1,4 +1,4 @@
-![Header]()
+![Header](github-header-banner.png)
 
 ## - 🌱 I’m currently learning:  
 App and Web Development
