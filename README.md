@@ -1,14 +1,15 @@
 ![Header](github-header-banner.png)
 
-## - 🌱 I’m currently learning:  
+## -🌱 I’m currently learning:  
 App and Web Development
 ## - 📫 How to reach me:
 Email: j.aranda.555647@umindanao.edu.ph  
 Phone Number: 0968 404 5902
-## - 😄 Pronouns:  
+## -😄 Pronouns:  
 Bai
-## - ⚡ Fun fact / My hobbies aside UI/UX DEV:  
+## -⚡ Fun fact / My hobbies aside UI/UX DEV:  
 Plays Many Music Instruments 🎸🎹🥁  
-Rides Motorcycle
+Rides Motorcycle  
 
-
+## -Languages
+[![My Skills](https://skillicons.dev/icons?i=java,py,flutter,html,css,cpp)](https://skillicons.dev)
