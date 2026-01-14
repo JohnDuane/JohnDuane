@@ -6,7 +6,7 @@ App and Web Development
 Email: j.aranda.555647@umindanao.edu.ph  
 Phone Number: 0968 404 5902
 ## -😄 Pronouns:  
-Bai
+He/Him
 ## -⚡ Fun fact / My hobbies aside UI/UX DEV:  
 Plays Many Music Instruments 🎸🎹🥁  
 Rides Motorcycle  
